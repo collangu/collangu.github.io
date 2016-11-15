@@ -8,9 +8,17 @@ p2{
 p3{
     color: dodgerblue
 }
+p4{
+    color: deeppink
+}
+
 body{
      background-color:aqua
     
+}
+img {
+    max-width: 500px;
+    height: auto;
 }
 html {
 background: #505D6E url("html {
@@ -91,5 +99,20 @@ table {
             
             
         }
+        @media (max-width:1600px) and (min-width: 500px){
+         
+            body{
+                background-color: blue
+            }
+            
+        }
+        
+        
+        
+        
+        
+        
+        
+        
         
         
